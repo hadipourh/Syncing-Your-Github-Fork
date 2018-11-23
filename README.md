@@ -2,7 +2,7 @@
 A brief guidance about syncing a forked repository with the original one.
 
 
-Let's say you've forked a repository from ```https://github.com/ORIGINAL-DEV-USERNAME/REPO-YOU-FORKED-FROM```, where "ORIGINAL-DEV-USERNAME" and "REPO-YOU-FORKED-FROM" are the username of main developer and the original name of the project respectively. Suppose you notice that some changes have been made on the original project, and you want to synchronize your current forked project with the original one. You can do this by the following commands. note that, before doing the following commands you need to install git on your machine. 
+Let's say you've forked a repository from ```https://github.com/ORIGINAL-DEV-USERNAME/REPO-YOU-FORKED-FROM```, where "ORIGINAL-DEV-USERNAME" and "REPO-YOU-FORKED-FROM" are the username of main developer, and the original name of the project respectively. Suppose you notice that some changes have been made on the original project, and you want to synchronize your current forked project with the original one. You can do this by the following commands. note that, before doing the following commands you need to install git on your machine. 
 
 ## Clone Your Fork on Your Local Machine:
 ```
