@@ -33,7 +33,7 @@ Merge the changes from `upstream/master` into your local `master` branch. This b
 ```
 git pull upstream master
 ```
-Here, I've supposed that you want to syncronize the forked project with the master branch of the original one. If you want to pull from another branch, you need to use the target branch name instead of master. 
+Here, I've supposed that you want to syncronize the forked project with the master branch of the original one. If you want to pull from another branch, you need to use the target branch's name instead of `master`. 
 ## Step4: Upload your updated repository into your github account
 Remove the upstream remote:
 ```
