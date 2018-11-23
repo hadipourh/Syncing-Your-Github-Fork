@@ -2,7 +2,7 @@
 A brief guidance about syncing a forked repository with the original one.
 
 
-Let's say you've forked a repository from `https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY`, where "ORIGINAL_OWNER" and "ORIGINAL_REPOSITORY" are the username of main developer, and the name of original repository respectively. Suppose you want to synchronize your current fork repository with the original one. You can do this by the following commands. note that, before doing the following commands you need set up Git on your machine. 
+Let's say you've forked a repository from `https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY`, where "ORIGINAL_OWNER" and "ORIGINAL_REPOSITORY" are the username of main developer, and the name of original repository respectively. Suppose you want to synchronize your current fork repository with the original one. You can do this by the following commands. note that, before doing the following commands you need to set up Git on your machine. 
 
 ## Step1: Create a local clone of your fork
 ```
