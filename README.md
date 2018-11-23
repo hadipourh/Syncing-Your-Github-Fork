@@ -12,8 +12,10 @@ git clone https://github.com/YOUR-USERNAME/YOUR-FORKED-REPO.git
 Add remote from original repository in your forked repository
 ```
 cd into/cloned/fork-repo
-git remote add upstream https://github.com/ORIGINAL-DEV-USERNAME/REPO-YOU-FORKED-FROM
+git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
 ```
+To verify the new upstream repository you've specified for your fork, type `git remote -v` again. You should see the URL for your fork as origin, and the URL for the `original` repository as `upstream`.
+
 Now, you can keep your fork synced with the upstream repository. Before you can sync your fork with an upstream repository, you must configure a remote that points to the upstream repository in Git. Fetch the branches and their respective commits from the upstream repository. Commits to `master` will be stored in a local branch, `upstream/master`.
 ```
 git fetch upstream
